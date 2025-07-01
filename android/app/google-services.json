@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679032394407",
+    "project_id": "myspace-ce747",
+    "storage_bucket": "myspace-ce747.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679032394407:android:f9048941170a0925e84182",
+        "android_client_info": {
+          "package_name": "com.example.essential"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGNysplQDNP_od7nphpQLQo1-_RWyUtqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
