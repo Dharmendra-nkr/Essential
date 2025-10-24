@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'xxxx',
-    appId: '1:679032394407:android:f9048941170a0925e84182',
+    appId: 'yyy',
     messagingSenderId: '679032394407',
     projectId: 'myspace-ce747',
     storageBucket: 'myspace-ce747.firebasestorage.app',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'xxx',
-    appId: '1:679032394407:ios:eb2635b38ec5ea04e84182',
+    appId: 'yyy',
     messagingSenderId: '679032394407',
     projectId: 'myspace-ce747',
     storageBucket: 'myspace-ce747.firebasestorage.app',
